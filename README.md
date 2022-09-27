@@ -1,2 +1,2 @@
 # autoencoder
-Jørgen var her
+Jørgen og John var her
